@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Duckygames**
 
-- 👨‍💻 All of my projects are available at [https://git.moonxcraft.ir/mahan90nn/](https://git.moonxcraft.ir/mahan90nn/)
-
 - 📫 How to reach me **admin@moonxcraft.ir**
 
 - ⚡ Fun fact **I Started development in 2020.**
