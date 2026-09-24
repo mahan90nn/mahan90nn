@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Mahan</h1>
 <p>A passionate java developer from iran</p>
-<h2>🚀 Languages and Tools I Use</h2>
-
 
 - 🔭 I’m currently working on **Pulse & Zenith**
 
@@ -12,6 +10,8 @@
 - 📫 How to reach me **mahan90nn on discord**
 
 - ⚡ Fun fact **I Started development in 2020.**
+- 
+<h2>🚀 Languages and Tools I Use</h2>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
